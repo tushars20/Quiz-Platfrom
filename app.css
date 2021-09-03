@@ -1,0 +1,94 @@
+body
+{
+    background-color: greenyellow;
+}
+a
+{
+    color: white;
+}
+#g:hover{
+    background-color: yellowgreen;
+}
+.nav-item
+{
+    font-size: x-large;
+    transition: 250ms;
+    border-radius: 10%;
+    margin: auto;
+
+}
+.nav-item:hover{
+    background-color: yellowgreen;
+}
+.select{
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+.col-sm{
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 20%;
+    transition: 1s;
+}
+.col-sm:hover
+{
+    border-radius: 10%;
+}
+.col1
+{
+  
+    background-image: url("https://images.unsplash.com/photo-1628155524928-35c02b8ac4d3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80");
+    background-size: cover;
+}
+
+.col2{
+    background-image: url("https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+    background-size: cover;
+}
+
+.col3
+{
+    background-image: url("https://images.unsplash.com/photo-1584277261846-c6a1672ed979?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1131&q=80");
+    background-size: cover;
+}
+
+.col4
+{
+    background-image: url("https://images.unsplash.com/photo-1625608914244-af9b2fe5f757?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGJpb2xvZ3l8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+    background-size: cover;
+}
+
+.col5
+{
+    background-image: url("https://images.unsplash.com/photo-1607988795691-3d0147b43231?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80");
+    background-size: cover;
+}
+
+.col6{
+    background-image: url("https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+    background-size: cover;
+}
+.name , .select{
+    color:white;
+    font-family: 'Rampart One', cursive;
+    font-weight: bolder;
+
+}
+.name
+{
+    padding-top: 70px;
+}
+.start
+{
+    margin: 200px;
+    font-size: xx-large;
+    border-radius: 20%;
+    text-decoration: none;
+}
+.start
+{
+    margin-left: 180px;
+}

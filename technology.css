@@ -1,0 +1,30 @@
+body
+{
+    background-image: url("technology.jpg");
+}
+.astroquiz{
+    font-family: 'Rampart One', cursive;
+    color: white;
+    margin: 50px;
+
+}
+
+.card 
+{
+    
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.col-sm{
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 20%;
+    transition: 1s;
+}
+.card:hover
+{
+    cursor: pointer;
+}
